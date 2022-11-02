@@ -1,0 +1,41 @@
+.m-change-year {
+    cursor: pointer;
+}
+.m-change-year:hover {
+    opacity: 0.7;
+}
+
+.m-container-month-picker {
+    margin-top: 10px;
+    width: 250px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 -2px 10px 2px lightgrey;
+    padding-bottom: 10px;
+}
+.m-head-month-picker {
+    padding: 20px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.m-body-row {
+    display: flex;
+    padding: 0 10px;
+    flex-wrap: wrap;
+}
+.m-body-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    border-radius: 3px;
+    font-weight: 500;
+    padding: 0 5px;
+    cursor: pointer;
+}
+

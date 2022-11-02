@@ -1,0 +1,68 @@
+.mtable-container {
+    width: 100%;
+    overflow-y: auto;
+}
+
+.mtable {
+    width: 100%;
+    height: 92%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.mrow-container {
+    height: 45px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.mcheckbox-column {
+    padding: 0 10px;
+}
+.mtfoot {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-top: 10px;
+    padding-right: 50px;
+}
+.mswitch-left {
+    border: 0;
+    margin-right: 10px;
+    background-color: white;
+    cursor: pointer;
+}
+.mswitch-left:hover {
+    background-color: lightgrey;
+}
+.mswitch-right {
+    border: 0;
+    background-color: white;
+    cursor: pointer;
+}
+.mswitch-right:hover {
+    background-color: lightgrey;
+}
+.mselect_amount_row {
+    margin-left: 5px;
+    background-color: lightgray;
+    border: 0;
+    width: 40px;
+    height: 30px;
+    cursor: pointer;
+}
+.wrapper_mselect_amount_row {
+    margin-right: 30px;
+}
+.counter_page {
+    margin-right: 30px;
+}
+.disable_mswitch-left {
+    border: 0;
+    background-color: white;
+    margin-right: 10px;
+}
+.disable_mswitch-right {
+    border: 0;
+    background-color: white;
+
+}

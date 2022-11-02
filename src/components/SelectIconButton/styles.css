@@ -1,0 +1,19 @@
+.icon-modal {
+    max-width:50%;
+    overflow: hidden;
+}
+
+.icon-modal-content {
+    display:flex;
+    flex-wrap: wrap;
+    width:100%;
+    column-gap: 10px;
+    row-gap: 10px
+}
+
+.icon-wrapper {
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 2px solid white;
+}

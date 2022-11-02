@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91972e07-f099-4b0b-b652-68a5fb619ca8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/unlock-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Alert/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Alert/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Alert/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Alert/utils.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Avatar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Avatar/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Avatar/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AvatarGroup/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AvatarGroup/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AvatarGroup/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/LinearChart/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChatCards/ChatCard/Avatar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChatCards/ChatCard/Avatar/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChatCards/ChatCard/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChatCards/ChatCard/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChatCards/ChatCard/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChatCards/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChatCards/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filters/OptionsFilter/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filters/OptionsFilter/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filters/OptionsFilter/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filters/RangeFilter/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filters/RangeFilter/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filters/RangeFilter/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filters/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filters/mockDb.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filters/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filters/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MonthPicker/hooks/useDate.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MonthPicker/hooks/useInterval.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MonthPicker/insex.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MonthPicker/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MonthPicker/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MonthPicker/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Morse/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Notification/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SelectIconButton/IconImage/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SelectIconButton/IconImage/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SelectIconButton/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SelectIconButton/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SelectIconButton/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SelectIconTab/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/Dropdowns/LimitDropdown/LimitDropdown.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/Dropdowns/LimitDropdown/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/Dropdowns/LimitDropdown/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/Dropdowns/SelectDropdown/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/Dropdowns/SelectDropdown/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/Dropdowns/SelectDropdown/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs/Tab/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs/Tab/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs/Tabs/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs/Tabs/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrafficLight/Light/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrafficLight/Light/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrafficLight/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrafficLight/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrafficLight/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UnlockIOs/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UnlockIOs/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UpLoadedPictures/UpLoadedPictures.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UpLoadedPictures/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UpLoadedPictures/style.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UpLoadedPictures/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/columns.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VKAvatar/Popup/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VKAvatar/Popup/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VKAvatar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VKAvatar/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/global.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/alertContext/Provider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/alertContext/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/alertContext/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/notificationContext/Provider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/notificationContext/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/notificationContext/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/themeContext/Provider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/themeContext/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/themeContext/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useAlert.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useAuth.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useNotification.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useQuery.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useTheme.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/mike.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/sky.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="2GzSLLXKZc5nm8sCBp4HurwKtD5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\mixan\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="D:\project\my_components\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\my_components\src\contexts" />
+      <recent name="D:\project\my_components\src\hooks" />
+      <recent name="D:\project\my_components\src\components" />
+      <recent name="D:\project\my_components\src\components\MonthPicker\hooks" />
+      <recent name="D:\project\my_components\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91972e07-f099-4b0b-b652-68a5fb619ca8" name="Default Changelist" comment="" />
+      <created>1667389861259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667389861259</updated>
+      <workItem from="1667389863629" duration="14779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="645" y="326" key="#ESLint" timestamp="1667390592261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="645" y="326" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1667390592261" />
+    <state x="556" y="170" key="FileChooserDialogImpl" timestamp="1667405592391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="556" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1667405592391" />
+    <state width="1498" height="205" key="GridCell.Tab.0.bottom" timestamp="1667405597704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1498" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1667405597704" />
+    <state width="1498" height="205" key="GridCell.Tab.0.center" timestamp="1667405597704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1498" height="205" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1667405597704" />
+    <state width="1498" height="205" key="GridCell.Tab.0.left" timestamp="1667405597704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1498" height="205" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1667405597704" />
+    <state width="1498" height="205" key="GridCell.Tab.0.right" timestamp="1667405597704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1498" height="205" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1667405597704" />
+    <state x="284" y="60" key="SettingsEditor" timestamp="1667390784670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="284" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1667390784670" />
+  </component>
+</project>

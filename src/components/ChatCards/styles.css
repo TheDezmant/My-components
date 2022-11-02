@@ -1,0 +1,4 @@
+.chat-cards-container {
+    display: flex;
+    flex-direction: column;
+}

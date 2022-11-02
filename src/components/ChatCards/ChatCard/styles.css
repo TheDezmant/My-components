@@ -1,0 +1,35 @@
+.chat-card-container {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.chat-card-left-side {
+    display: flex;
+    align-items: center;
+    width: 60px;
+}
+
+.chat-card-right-side {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgray;
+    padding: 5px;
+}
+
+.chat-card-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-card-title {
+    padding: 2px;
+    font-weight: 600;
+}
+
+.chat-card-msg {
+    padding: 2px 2px 4px;
+    color: gray;
+}
+

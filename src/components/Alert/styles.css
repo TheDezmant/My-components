@@ -1,0 +1,21 @@
+.alert-wrapper {
+    border-radius: 5px;
+    max-width: 300px;
+    padding: 10px;
+    position: fixed;
+    right: -300px;
+    bottom: 30px;
+    transition: right .3s;
+    z-index: 10001;
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+}
+
+.alert-open {
+    right: 30px;
+}
+.alert-text {
+    max-width: 250px;
+}
+

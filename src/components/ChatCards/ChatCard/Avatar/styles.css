@@ -1,0 +1,13 @@
+
+.chat-card-avatar {
+    width: 46px;
+    height: 46px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+
+.avatar-image {
+    width: 46px;
+    height: 46px;
+}
+

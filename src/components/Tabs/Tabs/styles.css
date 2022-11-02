@@ -1,0 +1,33 @@
+.tabs-container {
+  height: 100%;
+  display: flex;
+  padding: 10px 20px 20px 20px;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 3px;
+  box-shadow: 0 0 10px lightgrey;
+  overflow: hidden;
+}
+
+.tabs-labels {
+  height: 40px;
+  width: 100%;
+  border-bottom: 1px solid lightgrey;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.selected-label {
+  border-bottom: 3px solid blue;
+}
+
+.tab-label {
+  height: 100%;
+  width: fit-content;
+  padding: 0 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+

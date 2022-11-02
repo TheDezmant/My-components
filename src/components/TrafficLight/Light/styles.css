@@ -1,0 +1,21 @@
+.light-wrapper {
+    border: 1px solid grey;
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0 0 10px black;
+    background-color: darkgray;
+}
+
+.light-green {
+    background-color: green;
+}
+
+.light-yellow {
+    background-color: yellow;
+}
+
+.light-red {
+    background-color: red;
+}
+

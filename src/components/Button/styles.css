@@ -1,0 +1,19 @@
+.button-wrapper {
+    border-radius: 3px;
+    outline: none;
+    border-width: 1px;
+    border-style: solid;
+    padding: 10px 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: white
+}
+
+.button-wrapper:hover {
+    opacity: 0.9;
+}
+
+.button-wrapper:active {
+    opacity: 0.8;
+}
